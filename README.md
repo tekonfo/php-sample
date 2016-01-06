@@ -13,3 +13,7 @@ FROM [codenvy/php](https://hub.docker.com/r/codenvy/php/)
 | 2      | Stop Apache      |   `sudo service apache2 stop` |
 | 3 | Restart Apache      |    `sudo service apache2 restart` |
 
+# Preview URL
+
+localhost:$mappedPort/$projectName
+
