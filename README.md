@@ -3,7 +3,7 @@ A hello world PHP script
 
 # Recipe
 
-FROM codenvy/php
+FROM [codenvy/php](https://hub.docker.com/r/codenvy/php/)
 
 # Commands to run
 
