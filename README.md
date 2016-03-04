@@ -1,6 +1,10 @@
 # web-php-apache2-simple
 A hello world PHP script
 
+# Developer Workspace
+
+[![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=5ayat0naxlljn3p2)
+
 # Recipe
 
 FROM [codenvy/php](https://hub.docker.com/r/codenvy/php/)
@@ -16,7 +20,3 @@ FROM [codenvy/php](https://hub.docker.com/r/codenvy/php/)
 # Preview URL
 
 localhost:$mappedPort/$projectName
-
-# Factory
-
-[![Contribute](https://codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=5ayat0naxlljn3p2)
